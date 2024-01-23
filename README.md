@@ -1,6 +1,16 @@
 # Call-center-analysis
 
-# Data Dictionary
+This interactive Tableau dashboard is designed to analyze and visualize customer interactions, sentiments, and queries, empowering data-driven decision-making for enhancing customer satisfaction.
+
+![Dashboard](dashboard.png)
+
+### Features
+
+- **Sentiment Analysis:** Gain insights into customer sentiments during interactions, helping to identify trends and areas for improvement.
+
+- **CSAT Scores:** Track Customer Satisfaction (CSAT) scores over time to assess the overall satisfaction level.
+- 
+### Data Dictionary
 
 | Column Name            | Description                                               |
 |------------------------|-----------------------------------------------------------|
