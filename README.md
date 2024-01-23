@@ -6,10 +6,9 @@ This interactive Tableau dashboard is designed to analyze and visualize customer
 
 ### Features
 
-- **Sentiment Analysis:** Gain insights into customer sentiments during interactions, helping to identify trends and areas for improvement.
+- **Sentiment Analysis:** Gain insights into customer sentiments during interactions, helping identify trends and improvement areas.
 
-- **CSAT Scores:** Track Customer Satisfaction (CSAT) scores over time to assess the overall satisfaction level.
-- 
+- **CSAT Scores:** Track Customer Satisfaction (CSAT) scores over time to assess the overall satisfaction.
 ### Data Dictionary
 
 | Column Name            | Description                                               |
